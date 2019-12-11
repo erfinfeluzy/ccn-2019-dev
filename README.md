@@ -16,7 +16,7 @@
 #### Red Hat Code Ready Workspace
 <http://codeready-labs-infra.apps.cluster-jakarta-9aa2.jakarta-9aa2.open.redhat.com/dashboard/>
 
-#### Service Mesh Kiali Consolte
+#### Service Mesh Kiali Console
 <https://kiali-istio-system.apps.cluster-jakarta-9aa2.jakarta-9aa2.open.redhat.com/>
 
 user/pass : admin / admin
